@@ -1,4 +1,4 @@
-# Publications
+## Publications
 
 1. A. MacKay, Y. Mishura and A. Melnikov (2018) "Optimization of small deviation for mixed fractional Brownian motion with trend" *Stochastics* 90(7), 1087-1110. [arXiv](https://arxiv.org/abs/1806.04998) [Journal link](https://www.tandfonline.com/doi/full/10.1080/17442508.2018.1478835)
 
@@ -22,16 +22,16 @@
 
 11. P. Gaillardetz, H.Y. Li, A. MacKay (2012) "Equity-linked products: evaluation of the dynamic hedging errors under stochastic mortality" *European Actuarial Journal*,  2012, 2(2): 243-258. [Journal link]
 
-# Submitted papers
+## Submitted papers
 
 1. M. A. Kouritzin, A. MacKay (2019) "Branching Particle Pricers with Heston Examples". [arXiv]
 
-# Permanent working papers
+## Permanent working papers
 
-# Ph.D thesis
+## Ph.D thesis
 
 A. MacKay, "Fee Structure and Surrender Incentives in Variable Annuities", PhD Thesis, University of Waterloo, August 2014. [pdf]
 
-# Masters thesis
+## Masters thesis
 
 A. MacKay, "Pricing and Hedging Equity-Linked Product under Stochastic Volatility Models", 2011. [pdf]
