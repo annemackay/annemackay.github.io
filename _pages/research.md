@@ -15,7 +15,7 @@ author_profile: true
 
 10. M. A. Kouritzin, A. MacKay  (2018) "VIX-linked fees for GMWBs via explicit solution simulation methods" *Insurance: Mathematics and Economics* 81 (July), 1-17. [arXiv](https://arxiv.org/abs/1708.06886) [Journal link](https://www.sciencedirect.com/science/article/pii/S0167668717303967)
 
-9. A. MacKay (2017) "Quantile hedging pension payoffs: an analysis of investment incentives" *European Actuarial Journal*, 7(2), 481–514. [pdf](https://annemackay.github.io/files/paper9.pdf) [Journal link] (https://link.springer.com/article/10.1007/s13385-017-0161-3)
+9. A. MacKay (2017) "Quantile hedging pension payoffs: an analysis of investment incentives" *European Actuarial Journal*, 7(2), 481–514. [pdf](https://annemackay.github.io/files/paper9.pdf) [Journal link](https://link.springer.com/article/10.1007/s13385-017-0161-3)
 
 8. A. MacKay and A. Melnikov, "Price bounds in jump-diffusion markets revisited via market completions", 2017, in *Recent Advances in Mathematical and Statistical Methods for Scientific and Engineering Applications*, edited by D. M.Kilgour, H. Kunze, R. Makarov, R. Melnik et X. Wang, Springer, Cham. [Journal link](https://link.springer.com/chapter/10.1007/978-3-319-99719-3_50)
 
@@ -32,7 +32,6 @@ author_profile: true
 2. C. Bernard, A. MacKay, M. Muehlbeyer (2014) "Optimal Surrender Policy for Variable Annuity Guarantees" *Insurance: Mathematics and Economics*, 55: 116-128. [pdf](https://annemackay.github.io/files/paper2.pdf) [Journal link](https://www.sciencedirect.com/science/article/abs/pii/S0167668714000109)
 
 1. P. Gaillardetz, H.Y. Li, A. MacKay (2012) "Equity-linked products: evaluation of the dynamic hedging errors under stochastic mortality" *European Actuarial Journal*,  2012, 2(2): 243-258. [Journal link](https://link.springer.com/article/10.1007/s13385-012-0057-1#page-1)
-
 {: reversed="reversed"}
 
 
