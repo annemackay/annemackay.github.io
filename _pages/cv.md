@@ -9,7 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-<strong>Since 2016:</strong> Assistant professor, Department of Mathematics, Université du Québec à Montréal
+<strong>Since June 2020:</strong> Associate professor, Department of Mathematics, Université du Québec à Montréal
+
+<strong>2016 - 2020:</strong> Assistant professor, Department of Mathematics, Université du Québec à Montréal
 
 <strong>2014 - 2016:</strong> Postdoctoral researcher, RiskLab, ETH Zurich
 
