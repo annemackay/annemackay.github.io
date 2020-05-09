@@ -24,6 +24,7 @@
 
 1. P. Gaillardetz, H.Y. Li, A. MacKay (2012) "Equity-linked products: evaluation of the dynamic hedging errors under stochastic mortality" *European Actuarial Journal*,  2012, 2(2): 243-258. [Journal link](https://link.springer.com/article/10.1007/s13385-012-0057-1#page-1)
 
+
 ## Submitted papers
 
 1. A. MacKay et A. Ocejo (2020) "Portfolio Optimization With a Guaranteed Minimum Maturity Benefit and Risk-Adjusted Fees" [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3486858)
@@ -32,6 +33,7 @@
 ## Ph.D thesis
 
 A. MacKay, "Fee Structure and Surrender Incentives in Variable Annuities", PhD Thesis, University of Waterloo, August 2014. [Link](https://uwspace.uwaterloo.ca/bitstream/handle/10012/8601/MacKay_Anne.pdf?sequence=5)
+
 
 ## Masters thesis
 
