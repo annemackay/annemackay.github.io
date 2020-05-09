@@ -33,6 +33,8 @@ author_profile: true
 
 1. P. Gaillardetz, H.Y. Li, A. MacKay (2012) "Equity-linked products: evaluation of the dynamic hedging errors under stochastic mortality" *European Actuarial Journal*,  2012, 2(2): 243-258. [Journal link](https://link.springer.com/article/10.1007/s13385-012-0057-1#page-1)
 
+{: reversed="reversed"}
+
 
 ## Submitted papers
 
