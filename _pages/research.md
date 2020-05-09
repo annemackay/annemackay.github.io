@@ -1,3 +1,14 @@
+---
+layout: archive
+title: "Research"
+permalink: /research/
+author_profile: true
+redirect_from:
+  - /resume
+---
+
+{% include base_path %}
+
 ## Publications
 
 12. M. A. Kouritzin, A. MacKay (2020) "Branching Particle Pricers with Heston Examples" *International Journal of Theoretical and Applied Finance* 23(1), 29 pages. [arXiv](https://arxiv.org/pdf/1907.00219.pdf)[Journal link](https://www.worldscientific.com/doi/abs/10.1142/S021902492050003X)
