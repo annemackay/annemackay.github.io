@@ -7,6 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
+
 <strong>At UQAM</strong>
 
 - ACT2100 Compléments de probabilités 
