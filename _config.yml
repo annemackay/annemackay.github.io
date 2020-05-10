@@ -84,7 +84,7 @@ author:
   avatar           : "et_2017_MacKay_Anne-061.jpg"
   bio              : "Assistant professor at UQAM, at the intersection of actuarial and financial mathematics"
   location         : "Montreal, Canada"
-  employer         : "https://math.uqam.ca/"
+  employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.ca/citations?user=X9LGyloAAAAJ&hl=en&oi=ao"
   email            : "mackay.anne@uqam.ca"
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : #"http://orcid.org/0000-0002-8495-1983"
+  orcid            : "http://orcid.org/0000-0002-8495-1983"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username

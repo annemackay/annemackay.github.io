@@ -12,7 +12,7 @@ If you would like to work under my supervision for
 - a masters degree in actuarial and financial mathematics, or
 - a PhD in actuarial and financial mathematics,
 
-you can contact me. Please be aware that UQAM is French-speaking university.
+you can contact me. Please be aware that UQAM is a French-speaking university.
 
 
 ## Current and past students
