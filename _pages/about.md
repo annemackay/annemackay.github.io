@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an assistant professor in the [Department of Mathematics](https://math.uqam.ca) at UQAM, in Montreal, Canada. 
+I am an associate professor in the [Department of Mathematics](https://math.uqam.ca) at UQAM, in Montreal, Canada. 
 
 My research interests are at the intersection of actuarial science and mathematical finance. My work is structured around the pricing and hedging of long-term financial guarantees and hybrid insurance products. I am also interested in the development of numerical methods that find applications in actuarial and financial mathematics.
 
