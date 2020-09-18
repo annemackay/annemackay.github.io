@@ -9,6 +9,8 @@ author_profile: true
 
 ## Publications
 
+13. "New Branching Filters With Explicit Negative Dependence" *IEEE Access* 8, 157306-157321, doi: 10.1109/ACCESS.2020.3019226. [Open access journal link](https://ieeexplore.ieee.org/document/9174988)
+
 12. M. A. Kouritzin, A. MacKay (2020) "Branching Particle Pricers with Heston Examples" *International Journal of Theoretical and Applied Finance* 23(1), 29 pages. [arXiv](https://arxiv.org/pdf/1907.00219.pdf) [Journal link](https://www.worldscientific.com/doi/abs/10.1142/S021902492050003X)
 
 11. A. MacKay, Y. Mishura and A. Melnikov (2018) "Optimization of small deviation for mixed fractional Brownian motion with trend" *Stochastics* 90(7), 1087-1110. [arXiv](https://arxiv.org/abs/1806.04998) [Journal link](https://www.tandfonline.com/doi/full/10.1080/17442508.2018.1478835)
@@ -17,7 +19,7 @@ author_profile: true
 
 9. A. MacKay (2017) "Quantile hedging pension payoffs: an analysis of investment incentives" *European Actuarial Journal*, 7(2), 481–514. [pdf](https://annemackay.github.io/files/paper9.pdf) [Journal link](https://link.springer.com/article/10.1007/s13385-017-0161-3)
 
-8. A. MacKay and A. Melnikov, "Price bounds in jump-diffusion markets revisited via market completions", 2017, in *Recent Advances in Mathematical and Statistical Methods for Scientific and Engineering Applications*, edited by D. M.Kilgour, H. Kunze, R. Makarov, R. Melnik et X. Wang, Springer, Cham. [Journal link](https://link.springer.com/chapter/10.1007/978-3-319-99719-3_50)
+8. A. MacKay and A. Melnikov (2017) "Price bounds in jump-diffusion markets revisited via market completions," in *Recent Advances in Mathematical and Statistical Methods for Scientific and Engineering Applications*, edited by D. M.Kilgour, H. Kunze, R. Makarov, R. Melnik et X. Wang, Springer, Cham. [Journal link](https://link.springer.com/chapter/10.1007/978-3-319-99719-3_50)
 
 7. Z. Cui, R. Feng, A. MacKay (2017) "Variable Annuities with VIX-linked Fee Structure under a Heston-type Stochastic Volatility Model" *North American Actuarial Journal*, 21(3), 458-481. [pdf](https://annemackay.github.io/files/paper7.pdf) [Journal link](https://www.tandfonline.com/doi/abs/10.1080/10920277.2017.1307765)
 
@@ -37,7 +39,9 @@ author_profile: true
 
 ## Submitted papers
 
-1. A. MacKay et A. Ocejo (2020) "Portfolio Optimization With a Guaranteed Minimum Maturity Benefit and Risk-Adjusted Fees" [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3486858)
+2. M. A. Kouritzin, A. MacKay and I. R. Kouarfate (2020) "Explicit solution simulation method for the 3/2 model"
+
+1. A. MacKay and A. Ocejo (2020) "Portfolio Optimization With a Guaranteed Minimum Maturity Benefit and Risk-Adjusted Fees" [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3486858)
 
 
 ## Ph.D thesis
