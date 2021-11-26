@@ -9,7 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
-<strong>Since June 2020:</strong> 
+<strong>November 2021 - :</strong>
+	- Associate professor, Department of Mathematics and Department of Finance, Université de Sherbrooke
+
+<strong>2020 - 2021:</strong> 
 	- Associate professor, Department of Mathematics, Université du Québec à Montréal
 	- Director, [Quantact Research Lab](http://quantact.uqam.ca/index_en.php)
 

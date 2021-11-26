@@ -9,6 +9,8 @@ author_profile: true
 
 ## Publications
 
+14. I. R. Kouarfate, M. A. Kouritzin, A. MacKay (2021) "Explicit solution simulation method for the 3/2 model", to appear in *Advances in Probability and Mathematical Statistics*. [arXiv](https://arxiv.org/pdf/2009.09058.pdf)
+
 13. M. A. Kouritzin, A. MacKay, N. Vellone-Scott (2020)"New Branching Filters With Explicit Negative Dependence" *IEEE Access* 8, 157306-157321, doi: 10.1109/ACCESS.2020.3019226. [Open access journal link](https://ieeexplore.ieee.org/document/9174988)
 
 12. M. A. Kouritzin, A. MacKay (2020) "Branching Particle Pricers with Heston Examples" *International Journal of Theoretical and Applied Finance* 23(1), 29 pages. [arXiv](https://arxiv.org/pdf/1907.00219.pdf) [Journal link](https://www.worldscientific.com/doi/abs/10.1142/S021902492050003X)
