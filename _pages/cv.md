@@ -22,4 +22,4 @@ redirect_from:
 
 <strong>2011 - 2014:</strong> Ph.D in Actuarial Science, University of Waterloo
   
-Full CV available [here](https://annemackay.github.io/files/cv_march_20.pdf)
+Full CV available [here](https://annemackay.github.io/files/cv_nov_21.pdf)

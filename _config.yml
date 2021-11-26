@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Anne MacKay"
   avatar           : "et_2017_MacKay_Anne-061.jpg"
-  bio              : "Assistant professor at UQAM, at the intersection of actuarial and financial mathematics"
-  location         : "Montreal, Canada"
+  bio              : "Associate professor at Université de Sherbrooke, at the intersection of actuarial and financial mathematics"
+  location         : "Sherbrooke, Canada"
   employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.ca/citations?user=X9LGyloAAAAJ&hl=en&oi=ao"
-  email            : "mackay.anne@uqam.ca"
+  email            : "anne.mackay@usherbrooke.ca"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

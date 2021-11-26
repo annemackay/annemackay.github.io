@@ -35,4 +35,4 @@ I am a member of [Quantact](http://quantact.uqam.ca/index_en.php), the Actuarial
 
 * <strong>2011 - 2014:</strong> Ph.D in Actuarial Science, University of Waterloo
   
-Full CV available [here](https://annemackay.github.io/files/cv_march_20.pdf)
+Full CV available [here](https://annemackay.github.io/files/cv_nov_21.pdf)
