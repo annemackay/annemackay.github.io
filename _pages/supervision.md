@@ -17,7 +17,8 @@ you can contact me. Please be aware that Université de Sherbrooke is a French-s
 
 ## Current and past students
 
-- Marie-Claude Vachon (PhD, expected: 2022)
+- Julie Bélanger (PhD, expected: 2026)
+- Marie-Claude Vachon (PhD, expected: 2023)
 - Ayoub Bakraoui (Masters, expected: 2022)
 - Charles-Antoine Jauron (Masters, expected: 2023)
 - Julie Bélanger (Masters, 2020)

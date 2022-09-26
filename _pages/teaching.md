@@ -7,6 +7,11 @@ author_profile: true
 
 {% include base_path %}
 
+<strong>At Université de Sherbrooke<\strong>
+- FEC453 Marchés obligataires
+- STT390 Statistique mathématique et inférentielle
+- STT489 Processus stochastiques
+
 
 <strong>At UQAM</strong>
 
@@ -19,4 +24,4 @@ author_profile: true
 
 <strong>At University of Waterloo</strong>
 
-- ACTSC231 Mathematics of Finance (Winter 2013)
+- ACTSC231 Mathematics of Finance

@@ -9,7 +9,9 @@ author_profile: true
 
 ## Publications
 
-14. I. R. Kouarfate, M. A. Kouritzin, A. MacKay (2021) "Explicit solution simulation method for the 3/2 model", to appear in *Advances in Probability and Mathematical Statistics*. [arXiv](https://arxiv.org/pdf/2009.09058.pdf)
+15. A. MacKay and A. Ocejo (2022) "Portfolio optimization with a guaranteed minimum maturity benefit and risk-adjusted fees", *Methodology and Computing in Applied Probability*, 24, 1021-1049.
+
+14. I. R. Kouarfate, M. A. Kouritzin, A. MacKay (2021) "Explicit solution simulation method for the 3/2 model", in *Advances in Probability and Mathematical Statistics*, edited by K. Glau, M. Scherer and R.Zagst, Birkhaüser, Springer, 209 - 223. [arXiv](https://arxiv.org/pdf/2009.09058.pdf) [Journal link](https://link.springer.com/chapter/10.1007/978-3-030-85325-9_8)
 
 13. M. A. Kouritzin, A. MacKay, N. Vellone-Scott (2020)"New Branching Filters With Explicit Negative Dependence" *IEEE Access* 8, 157306-157321, doi: 10.1109/ACCESS.2020.3019226. [Open access journal link](https://ieeexplore.ieee.org/document/9174988)
 
@@ -39,11 +41,12 @@ author_profile: true
 {: reversed="reversed"}
 
 
-## Submitted papers
+## Submitted and working papers
 
-2. M. A. Kouritzin, A. MacKay and I. R. Kouarfate (2020) "Explicit solution simulation method for the 3/2 model"
+2. Cui, Zhenyu, A. MacKay and Marie-Claude Vachon (2022): “Analysis of VIX-linked fee
+incentives in variable annuities via continuous-time Markov chain approximation ”, submitted. [arXiv](https://arxiv.org/abs/2207.14793)
 
-1. A. MacKay and A. Ocejo (2020) "Portfolio Optimization With a Guaranteed Minimum Maturity Benefit and Risk-Adjusted Fees" [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3486858)
+1. Kouritzin, M. and A. MacKay (2022): “On stochastic approximation and option pricing”.
 
 
 ## Ph.D thesis

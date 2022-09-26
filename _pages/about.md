@@ -10,7 +10,7 @@ redirect_from:
 
 I am an associate professor in the [Department of Mathematics](https://www.usherbrooke.ca/mathematiques/) and in the [Department of Finance](https://www.usherbrooke.ca/ecole-gestion/departements/finance/) at Université de Sherbrooke. I was previously an associate professor in the [Department of Mathematics](https://math.uqam.ca) at UQAM, in Montreal, Canada. 
 
-My research interests are at the intersection of actuarial science and mathematical finance. My work is focused on optimal stopping and optimal control problems in hybrid insurance products, as well as on the development of simulation algorithms and numerical methods that find applications in actuarial and financial mathematics.
+My research interests are at the intersection of actuarial science and mathematical finance. My work is focused on optimal stopping and optimal control problems in hybrid insurance products, as well as on the development of simulation algorithms and numerical methods that find applications in actuarial and financial mathematics. I am also interested in the application of quantum computing to solve problems in mathematical finance.
 
 I am a member of [Quantact](http://quantact.uqam.ca/index_en.php), the Actuarial and Financial Mathematics Research Lab of the [CRM](http://www.crm.umontreal.ca/en/).
 
