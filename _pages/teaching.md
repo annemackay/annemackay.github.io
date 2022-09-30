@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-<strong>At Université de Sherbrooke<\strong>
+<strong>At Université de Sherbrooke</strong>
 - FEC453 Marchés obligataires
 - STT390 Statistique mathématique et inférentielle
 - STT489 Processus stochastiques
