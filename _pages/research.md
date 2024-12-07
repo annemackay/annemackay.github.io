@@ -9,7 +9,12 @@ author_profile: true
 
 ## Publications
 
-15. A. MacKay and A. Ocejo (2022) "Portfolio optimization with a guaranteed minimum maturity benefit and risk-adjusted fees", *Methodology and Computing in Applied Probability*, 24, 1021-1049.
+17. M.-C. Vachon, A. MacKay (2024+) "A Unifying Approach for the Pricing of Debt Securities", *Quantitative Finance*, to appear. [arXiv](https://arxiv.org/pdf/2403.06303)
+
+16. A. MacKay, M.-C. Vachon and Z. Cui (2023) "Analysis of VIX-linked fee incentives in variable annuities via continuous-time Markov chain approximation", *Quantitative Finance*, 23 (7-8), 1021-1049. [arXiv](https://arxiv.org/pdf/2207.14793) [Journal link](https://www.tandfonline.com/doi/abs/10.1080/14697688.2023.2215278)
+
+
+15. A. MacKay and A. Ocejo (2022) "Portfolio optimization with a guaranteed minimum maturity benefit and risk-adjusted fees", *Methodology and Computing in Applied Probability*, 24, 1021-1049.[SSRN](https://papers.ssrn.com/sol3/Delivery.cfm?abstractid=3486858) [Journal link](https://link.springer.com/article/10.1007/s11009-022-09942-5)
 
 14. I. R. Kouarfate, M. A. Kouritzin, A. MacKay (2021) "Explicit solution simulation method for the 3/2 model", in *Advances in Probability and Mathematical Statistics*, edited by K. Glau, M. Scherer and R.Zagst, Birkhaüser, Springer, 209 - 223. [arXiv](https://arxiv.org/pdf/2009.09058.pdf) [Journal link](https://link.springer.com/chapter/10.1007/978-3-030-85325-9_8)
 
@@ -43,10 +48,9 @@ author_profile: true
 
 ## Submitted and working papers
 
-2. Cui, Zhenyu, A. MacKay and Marie-Claude Vachon (2022): “Analysis of VIX-linked fee
-incentives in variable annuities via continuous-time Markov chain approximation ”, submitted. [arXiv](https://arxiv.org/abs/2207.14793)
+2. A. MacKay and Marie-Claude Vachon (2024) "On an optimal stopping problem with a discontinuous reward function". [arXiv](https://arxiv.org/pdf/2311.03538)
 
-1. Kouritzin, M. and A. MacKay (2022): “On stochastic approximation and option pricing”.
+1. Kouritzin, M. and A. MacKay (2024) "On stochastic approximation and option pricing".
 
 
 ## Ph.D thesis

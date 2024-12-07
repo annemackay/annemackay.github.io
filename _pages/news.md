@@ -9,11 +9,9 @@ author_profile: true
 
 ## Upcoming talks
 
-*Due to the COVID-19 pandemic, most upcoming talks have been cancelled or postponed.*
 
 
 ## Other events
 
-
-
+I am on the organising committee for the [Fields-CFI Conference on Optimal Stopping and Its Applications in Finance and Insurance](http://www.fields.utoronto.ca/activities/24-25/optimal-stopping), which will be held at the Fields Institute in Toronto on May 12-14, 2025.
 

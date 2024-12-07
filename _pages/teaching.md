@@ -11,6 +11,7 @@ author_profile: true
 - FEC453 Marchés obligataires
 - STT390 Statistique mathématique et inférentielle
 - STT489 Processus stochastiques
+- STT708 Sujets choisis en probabilité (Calcul stochastique)
 
 
 <strong>At UQAM</strong>

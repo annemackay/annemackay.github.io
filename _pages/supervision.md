@@ -17,10 +17,15 @@ you can contact me. Please be aware that Université de Sherbrooke is a French-s
 
 ## Current and past students
 
+- Iro René Kouarfate (PhD, expected: 2027), co-supervised with [M. Pigeon](https://professeurs.uqam.ca/professeur/pigeon.mathieu.2/)
 - Julie Bélanger (PhD, expected: 2026)
-- Marie-Claude Vachon (PhD, expected: 2023)
-- Ayoub Bakraoui (Masters, expected: 2022)
-- Charles-Antoine Jauron (Masters, expected: 2023)
+- Lova Ramaroson (Masers, expected: 2025)
+- Marie-Claude Vachon (PhD, 2024)
+	- PhD thesis: Évaluation d'instruments financiers de type américain avec des approximations par chaînes de Markov
+- Ayoub Bakraoui (Masters, 2022)
+	- Masters thesis: Un problème de contrôle stochastique avec stratégies bornées appliqué aux fonds distincts
+- Charles-Antoine Jauron (Masters, 2022), co-supervised with [A. Bélanger](https://www.usherbrooke.ca/ecole-gestion/personnel/professeurs/finance/alain-belanger)
+	- Masters thesis: Pricing Options on Quantum Computers
 - Julie Bélanger (Masters, 2020)
 	- Masters thesis: [Optimisation de portefeuille appliquée aux fonds distincts](https://archipel.uqam.ca/14048/)
 - Iro René Kouarfate (Masters, 2020)
