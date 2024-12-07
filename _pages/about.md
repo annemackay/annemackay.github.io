@@ -36,4 +36,4 @@ I am on the organising committee for the [Fields-CFI Conference on Optimal Stopp
 
 * <strong>2011 - 2014:</strong> Ph.D in Actuarial Science, University of Waterloo
   
-Full CV available [here](https://annemackay.github.io/files/cv_sept_22.pdf)
+Full CV available [here](https://annemackay.github.io/files/cv_dec_24.pdf)
