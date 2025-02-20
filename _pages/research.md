@@ -9,15 +9,17 @@ author_profile: true
 
 ## Submitted
 
-2. A. MacKay and Marie-Claude Vachon (2024) "On an optimal stopping problem with a discontinuous reward function". [arXiv](https://arxiv.org/pdf/2311.03538)
+3. C. Genest, A. MacKay and F. Ouimet (2025) "On noncentral Wishart mixtures of noncentral Wisharts and their use for testing random effects in factorial design models", [ResearchGate](https://www.researchgate.net/publication/389138076_On_noncentral_Wishart_mixtures_of_noncentral_Wisharts_and_their_use_for_testing_random_effects_in_factorial_design_models)
 
-1. Kouritzin, M. and A. MacKay (2024) "On stochastic approximation and option pricing".
+2. A. MacKay and M.-C. Vachon (2024) "On an optimal stopping problem with a discontinuous reward function". [arXiv](https://arxiv.org/pdf/2311.03538)
+
+1. M. Kouritzin and A. MacKay (2024) "On stochastic approximation and option pricing".
 
 
 
 ## Published
 
-17. M.-C. Vachon, A. MacKay (2024+) "A Unifying Approach for the Pricing of Debt Securities", *Quantitative Finance*, to appear. [arXiv](https://arxiv.org/pdf/2403.06303)
+17. M.-C. Vachon, A. MacKay (2024) "A Unifying Approach for the Pricing of Debt Securities", *Quantitative Finance*, 24(12), 1747--1772. [arXiv](https://arxiv.org/pdf/2403.06303) [Journal link](https://www.tandfonline.com/doi/pdf/10.1080/14697688.2024.2423686)
 
 16. A. MacKay, M.-C. Vachon and Z. Cui (2023) "Analysis of VIX-linked fee incentives in variable annuities via continuous-time Markov chain approximation", *Quantitative Finance*, 23 (7-8), 1021-1049. [arXiv](https://arxiv.org/pdf/2207.14793) [Journal link](https://www.tandfonline.com/doi/abs/10.1080/14697688.2023.2215278)
 
