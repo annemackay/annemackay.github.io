@@ -9,7 +9,7 @@ author_profile: true
 
 ## Submitted
 
-3. C. Genest, A. MacKay and F. Ouimet (2025) "On noncentral Wishart mixtures of noncentral Wisharts and their use for testing random effects in factorial design models", [ResearchGate](https://www.researchgate.net/publication/389138076_On_noncentral_Wishart_mixtures_of_noncentral_Wisharts_and_their_use_for_testing_random_effects_in_factorial_design_models)
+3. C. Genest, A. MacKay and F. Ouimet (2025) "On noncentral Wishart mixtures of noncentral Wisharts and their use for testing random effects in factorial design models", [ResearchGate](https://www.researchgate.net/publication/389138076_On_noncentral_Wishart_mixtures_of_noncentral_Wisharts_and_their_use_for_testing_random_effects_in_factorial_design_models) [aXiv](http://arxiv.org/abs/2502.13711)
 
 2. A. MacKay and M.-C. Vachon (2024) "On an optimal stopping problem with a discontinuous reward function". [arXiv](https://arxiv.org/pdf/2311.03538)
 
