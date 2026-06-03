@@ -7,13 +7,13 @@ author_profile: true
 
 {% include base_path %}
 
-## Submitted
+## Pre-prints
 
 - I. R. Kouarfate, M. Dion, A. MacKay and M. Pigeon (2026) "QUBO-Based Calibration for Regression Trees". [arXiv](https://arxiv.org/abs/2605.06528)
 
 - F. Paquette, T. Belabbas, E. Hamel and A. MacKay (2026) "Pricing Lookback Options on a Quantum Computer". [arXiv](https://arxiv.org/abs/2604.00389)
 
-- A. MacKay and M.-C. Vachon (2024) "On an optimal stopping problem with a discontinuous reward function". [arXiv](https://arxiv.org/pdf/2311.03538)
+- A. MacKay and M.-C. Vachon (2024) "On an optimal stopping problem with a discontinuous reward function". [arXiv](https://arxiv.org/pdf/2311.03538) [Talk at KIT](https://www.youtube.com/watch?v=fio1NSzWL3M)
 
 - M. Kouritzin and A. MacKay (2024) "On stochastic approximation and option pricing".
 

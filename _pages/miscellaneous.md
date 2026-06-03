@@ -8,10 +8,12 @@ author_profile: true
 {% include base_path %}
 
 
-## Online seminar series
+## Online seminar series and other online resources
 
-Here are some seminar series that are more or less related to my research topics, or that I just find interesting.
+Here are some online resources that are more or less related to my research topics, or that I just find interesting.
 
+- [YouTube channel of the Institut Quantique](https://www.youtube.com/@institutquantiqueUdeS)
+    -  [Événement CQ: Quand la finance et la quantique se rencontrent](https://www.youtube.com/watch?v=girmIRwSv1o)
 - [One World Actuarial Research Seminar](http://www.maths.usyd.edu.au/u/munir/owars/)
 - [Bachelier Finance Society One World Seminar](https://www.bachelierfinance.org/bachelier-finance-society-world-seminars-online)
 - [One World Probability](https://www.wim.uni-mannheim.de/doering/one-world/)
