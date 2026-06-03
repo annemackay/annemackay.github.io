@@ -15,13 +15,21 @@ If you would like to work under my supervision for
 you can contact me. Please be aware that Université de Sherbrooke is a French-speaking university.
 
 
-## Current and past students
+## Current students
 
+- Florence Paquette (Masters, expected: 2027)
+- Guillaume Philion (Masters, expected: 2027)
+- Ayoub Bakraoui (PhD, expected: 2029), co-supervised with [T. Nguyen](https://huu-thai-nguyen.fsg.ulaval.ca/)
 - Iro René Kouarfate (PhD, expected: 2027), co-supervised with [M. Pigeon](https://professeurs.uqam.ca/professeur/pigeon.mathieu.2/)
-- Julie Bélanger (PhD, expected: 2026)
-- Lova Ramaroson (Masers, expected: 2025)
+- Julie Bélanger (PhD, expected: 2027)
+
+
+## Past students
+
+- Lova Ramaroson (Masters, 2026)
+	- Masters thesis: Tarification d’options sur l’ordinateur quantique: préparation d’états quantiques à base de réseaux de tenseurs
 - Marie-Claude Vachon (PhD, 2024)
-	- PhD thesis: Évaluation d'instruments financiers de type américain avec des approximations par chaînes de Markov
+	- PhD thesis: [Évaluation d'instruments financiers de type américain avec des approximations par chaînes de Markov](https://archipel.uqam.ca/18546/)
 - Ayoub Bakraoui (Masters, 2022)
 	- Masters thesis: Un problème de contrôle stochastique avec stratégies bornées appliqué aux fonds distincts
 - Charles-Antoine Jauron (Masters, 2022), co-supervised with [A. Bélanger](https://www.usherbrooke.ca/ecole-gestion/personnel/professeurs/finance/alain-belanger)

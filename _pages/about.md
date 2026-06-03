@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an associate professor in the [Department of Mathematics](https://www.usherbrooke.ca/mathematiques/) and in the [Department of Finance](https://www.usherbrooke.ca/ecole-gestion/departements/finance/) at Université de Sherbrooke. I was previously an associate professor in the [Department of Mathematics](https://math.uqam.ca) at UQAM, in Montreal, Canada. 
+I am an associate professor in the [Department of Mathematics](https://www.usherbrooke.ca/mathematiques/) and in the [Department of Finance](https://www.usherbrooke.ca/ecole-gestion/departements/finance/) at Université de Sherbrooke. I was previously an associate professor in the [Department of Mathematics](https://math.uqam.ca) at UQAM, in Montreal, Canada. I am co-responsible for the Pôle de Recherche en Finance Quantique of Université de Sherbrooke.
 
 My research interests are at the intersection of actuarial science and mathematical finance. My work is focused on optimal stopping and optimal control problems in hybrid insurance products, as well as on the development of simulation algorithms and numerical methods that find applications in actuarial and financial mathematics. I am also interested in the application of quantum computing to solve problems in mathematical finance.
 
@@ -17,7 +17,6 @@ I am a member of [Quantact](http://quantact.uqam.ca/index_en.php), the Actuarial
 
 ## News and upcoming talks
 
-I am on the organising committee for the [Fields-CFI Conference on Optimal Stopping and Its Applications in Finance and Insurance](http://www.fields.utoronto.ca/activities/24-25/optimal-stopping), which will be held at the Fields Institute in Toronto on May 12-14, 2025.
 
 
 
