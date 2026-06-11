@@ -9,11 +9,13 @@ author_profile: true
 
 ## Pre-prints
 
+- N. Bäuerle and A. MacKay (2026) "Mean-Variance Optimization in Ambiguous Financial Markets with Learning". [arXiv](https://arxiv.org/abs/2606.11318)
+
 - I. R. Kouarfate, M. Dion, A. MacKay and M. Pigeon (2026) "QUBO-Based Calibration for Regression Trees". [arXiv](https://arxiv.org/abs/2605.06528)
 
 - F. Paquette, T. Belabbas, E. Hamel and A. MacKay (2026) "Pricing Lookback Options on a Quantum Computer". [arXiv](https://arxiv.org/abs/2604.00389)
 
-- A. MacKay and M.-C. Vachon (2024) "On an optimal stopping problem with a discontinuous reward function". [arXiv](https://arxiv.org/pdf/2311.03538) [Talk at KIT](https://www.youtube.com/watch?v=fio1NSzWL3M)
+- A. MacKay and M.-C. Vachon (2026) "On an optimal stopping problem with a discontinuous reward function". [arXiv](https://arxiv.org/pdf/2311.03538) [Talk at KIT](https://www.youtube.com/watch?v=fio1NSzWL3M)
 
 - M. Kouritzin and A. MacKay (2024) "On stochastic approximation and option pricing".
 
